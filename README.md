@@ -37,6 +37,10 @@ T = 500;                          % Maximum iterations
 [bestFitness, bestSolution, convergence] = HCOAHS(objFunction, N, T, dim, lb, ub);
 
 fprintf('Best Fitness: %.6e\n', bestFitness);
+
+
+
+
 📬 Contact
 For code-related queries, please contact:
 Binanda Maiti – mathematicsbinanda@gmail.com 
